@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>clinica-_2_.ico</file>
+    <file>lixeira_branco.png</file>
+    <file>criar_qr_code.png</file>
+    <file>dados_branco.png</file>
+    <file>clinica.ico</file>
+    <file>clinica.png</file>
+    <file>sair_branco.png</file>
+    <file>desligar_camera_branca.png</file>
+    <file>camera_branca.png</file>
+  </qresource>
+</RCC>

@@ -1,3 +1,3 @@
-# Banco-de-hora-Clinica
+# QR_Ufopa
 
-Esse projeto utiliza ferramentas para criação e leitura de codigo QR (QR-Code), onde cada QR-Code possui o nome de um funcionario, que será verificado no sistema para fazer o registro da hora e que entrou no local de trabalho, ou seja, uma folha de ponto automática. Para o design é utilizado a ferramenta QTDesigner, que possui uma biblioteca (PyQT5) que possui facil integração com a linguagem Python
+Esse webservice disponibiliza recursos para utilização no Projeto PAEM UFOPA. Este projeto visa gerenciar o acesso de alunos e servidores à Universidade verificando se os recursos solicitados por aquele usuário estão disponíveis e se o usuário está íntegro. Assim, o projeto terá quatro aplicações: aquele webservice para gerenciar dados solicitados de outras aplicações; sistema de gerenciamento de entrada da portaria; um sistema para a entrada da solicitação do usuário na Universidade e, finalmente, um ChatBot para a entrada da solicitação do usuário também.
